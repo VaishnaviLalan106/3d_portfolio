@@ -3,7 +3,7 @@
 A modern, interactive personal portfolio website showcasing my journey as a **Full Stack Developer & AI Enthusiast**.
 Built with a focus on clean design, smooth animations, and immersive user experience.
 
-🔗 **Live Portfolio:** Add your Vercel URL here
+🔗 **Live Portfolio:** [Live Demo](https://3d-portfolio-tau-ivory.vercel.app/)
 
 ---
 
